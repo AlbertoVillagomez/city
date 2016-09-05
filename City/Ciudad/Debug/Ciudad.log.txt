@@ -1,0 +1,44 @@
+﻿Build started 20/03/2016 03:01:37 a. m..
+     1>Project "C:\Users\Alberto\Documents\Décimo semestre\Gráficas computacionales\Ciudad\Ciudad\Ciudad.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Alberto\Documents\Décimo semestre\Gráficas computacionales\glew-1.11.0\include" /I"C:\Users\Alberto\Documents\Décimo semestre\Gráficas computacionales\freeglut\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(40): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(57): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(198): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(201): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(213): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(214): warning C4244: 'argument' : conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(219): warning C4258: 'j' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(211) : definition of 'j' ignored
+                 c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(208) : definition of 'j' used
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(219): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(357): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(398): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(399): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(400): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(435): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(436): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(437): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(483): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(484): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(485): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(490): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(534): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(535): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(539): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(543): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(544): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(552): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(555): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(558): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(561): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\alberto\documents\décimo semestre\gráficas computacionales\ciudad\ciudad\source.cpp(581): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alberto\Documents\Décimo semestre\Gráficas computacionales\Ciudad\Debug\Ciudad.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Alberto\Documents\Décimo semestre\Gráficas computacionales\glew-1.11.0\lib\Release\Win32" /LIBPATH:"C:\Users\Alberto\Documents\Décimo semestre\Gráficas computacionales\freeglut\lib" freeglut.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Alberto\Documents\Décimo semestre\Gráficas computacionales\Ciudad\Debug\Ciudad.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Alberto\Documents\Décimo semestre\Gráficas computacionales\Ciudad\Debug\Ciudad.lib" /MACHINE:X86 Debug\Source.obj
+         Ciudad.vcxproj -> C:\Users\Alberto\Documents\Décimo semestre\Gráficas computacionales\Ciudad\Debug\Ciudad.exe
+     1>Done Building Project "C:\Users\Alberto\Documents\Décimo semestre\Gráficas computacionales\Ciudad\Ciudad\Ciudad.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.97
